@@ -5,7 +5,7 @@ public class passwordMaker {
     /**
      * This method is used to determine the score of a password inputted based on how strong it is.
      * it takes 3 things into consideration which are: password length, password digits contained and
-     * password upper case letters contained.
+     * password upper case letters contained within the password.
      * @param password The password that you would like to check the strength of.
      * @return Returns a score of type "int"  on a scale form 1-10.
      */
